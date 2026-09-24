@@ -1,0 +1,17 @@
+{
+  "admin": {
+    "activo": true
+  },
+  "usuario2": {
+    "activo": false
+  },
+  "usuario3": {
+    "activo": true
+  },
+  "usuario4": {
+    "activo": false
+  },
+  "usuario5": {
+    "activo": true
+  }
+}
