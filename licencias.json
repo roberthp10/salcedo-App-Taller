@@ -1,6 +1,6 @@
 {
   "admin": {
-    "activo": true
+    "activo": false
   },
   "usuario2": {
     "activo": false
