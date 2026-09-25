@@ -1,17 +1,14 @@
 {
   "admin": {
+    "password": "12345",
     "activo": true
   },
-  "usuario2": {
+  "tecnico1": {
+    "password": "0101",
+    "activo": true
+  },
+  "tecnico2": {
+    "password": "0202",
     "activo": false
-  },
-  "usuario3": {
-    "activo": true
-  },
-  "usuario4": {
-    "activo": false
-  },
-  "usuario5": {
-    "activo": true
   }
 }
