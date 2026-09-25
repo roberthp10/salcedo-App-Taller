@@ -5,10 +5,10 @@
   },
   "tecnico1": {
     "password": "0101",
-    "activo": false
+    "activo": true
   },
   "tecnico2": {
     "password": "0202",
-    "activo": true
+    "activo": false
   }
 }
