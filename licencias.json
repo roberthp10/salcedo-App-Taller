@@ -1,14 +1,17 @@
 {
   "admin": {
     "password": "12345",
+    "nombre": "Administrador",
     "activo": true
   },
   "tecnico1": {
     "password": "0101",
+    "nombre": "Tecnico 1",
     "activo": true
   },
   "tecnico2": {
     "password": "0202",
+    "nombre": "Tecnico 2",
     "activo": false
   }
 }
