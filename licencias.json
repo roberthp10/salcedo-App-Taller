@@ -9,6 +9,6 @@
   },
   "tecnico2": {
     "password": "0202",
-    "activo": false
+    "activo": true
   }
 }
